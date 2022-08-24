@@ -13,7 +13,7 @@
 
 <h1 align="center">Hi! I'm Aya Bouchair 👋</h1>
 <h2>:woman_technologist: About Me</h2>
-<h3>A Computer Science Student.</h3>
+<h3>I am a Computer Science Student.</h3>
 
 - 🔭 I'm currently working on my web developement skills.
 - 🌱 I’m currently learning flutter, Dart, VueJS.
