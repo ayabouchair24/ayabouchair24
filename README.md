@@ -18,6 +18,4 @@
 - 🔭 I'm currently working on my AI skills.
 - ⚡ Fun fact: I like designing stuff with Figma.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aya-bouchair-2301b3106/)
-### :hammer_and_wrench: Languages and Tools :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayabouchair24&theme=dark"/>
