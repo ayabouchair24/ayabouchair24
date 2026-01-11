@@ -12,9 +12,7 @@
 </div>  
 
 <h1 align="center">Hi! I'm Aya👋</h1>
-<h2 align="center">Aspiring Data Scientist | AI & Big Data  </h2>
 <h2>:woman_technologist: About Me</h2>
-<h3>I am an AI & Big Data Student.</h3>
 
 - 🔭 I'm currently working on my AI skills.
 - ⚡ Fun fact: I like designing stuff with Figma.
